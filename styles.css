@@ -91,9 +91,15 @@ a {
   .col-md-1 {
     width: 33.3% !important;
   }
+  .mbottom {
+    border-bottom: 2px solid black !important;
+  }
 }
 @media only screen and (min-width: 401px) and (max-width: 760px) {
   .col-md-1 {
     width: 16.66%;
+  }
+  .tbottom {
+    border-bottom: 2px solid black !important;
   }
 }
